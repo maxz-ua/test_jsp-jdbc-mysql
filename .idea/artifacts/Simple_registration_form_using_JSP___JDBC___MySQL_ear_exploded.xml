@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Simple registration form using JSP + JDBC + MySQL:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simple_registration_form_using_JSP___JDBC___MySQL_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Simple registration form using JSP + JDBC + MySQL/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
